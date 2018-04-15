@@ -1,0 +1,26 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+html > * {
+	font-family: 'Share Tech Mono', sans-serif;
+	font-size: 3em;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+	background-color: black;
+	text-align: center;
+    display: table-cell;
+    vertical-align: middle;	
+	color: white;
+}
+
+div {
+	width: 90%;
+	margin: auto;
+}
